@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 2019
+slug  : the-stream-cipher
+seal  : cf1859c68f14c58641bf15d6ee099f8cc7501d247c10d1acdcdd066356349001
+prev  : 1fb9fc6fef1742e3374070e9e92d74139cfa725138c8b3c22d393d0af0f7e689
+link  : 3f33648133340a51f16a5baef9294435df544ac892ce1ccfe145cf008cc4f8e8
+head  : 6387af6870de4b475f9bfa3afabdd7f4465c8cf6e3cd383f9359c35f9b636cf0
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
